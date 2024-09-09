@@ -1,8 +1,8 @@
 # java-nao-estragado
 
-# java-nao-estragado
+-------------------------------------
 
-
+### Eu basicamente destrui o java-study entao fiz isso aqui é a mesma coisa confia
 
 # Meus Estudos de Java
 
